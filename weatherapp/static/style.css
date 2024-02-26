@@ -1,0 +1,22 @@
+body{
+    background-color: #edf6f9;
+}
+
+.btn.btn-primary{
+    background-color: #ccd5ae;
+    border: none;
+}
+
+.heading.text-center.mb-4{
+    margin-top: 60px;
+    color: #14213d;
+}
+
+.display-4.mb-0.font-weight-bold{
+    color: #14213d;
+}
+
+.btn.btn-primary{
+    background-color: #ccd5ae;
+    border-radius: 8px;
+}
